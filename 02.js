@@ -1,3 +1,4 @@
+
 let number1 = Math.ceil(Math.random() * 100);
 
 console.log(number1);
