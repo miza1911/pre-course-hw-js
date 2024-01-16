@@ -8,7 +8,7 @@ console.log('Верно');
 } else {
 console.log('Не верно, это было число ' + number1);
 }
-{
+  {
     if (number1 % 2 == 0) {
         alert( number1 );
     }
