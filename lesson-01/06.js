@@ -1,3 +1,2 @@
 let str = 'zzzzyzz';
-let message = str.includes('y') ? 'нашел' : 'заблудился';
-console.log(message);
+let str2 = (str.includes("у") ) ? console.log("нашел") : console.log("заблудился");
