@@ -1,3 +1,3 @@
 let str = "zzzzyzz";
-let result = str.includes(y) ? "нашел" : "заблудился";
+let result = str.includes ("у") ? "нашел" : "заблудился";
 console.log(result);
